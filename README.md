@@ -150,5 +150,5 @@ No known bugs at this time.
 
 ## Authors
 - Mubarek Hussen - [Github](https://github.com/MubarekHussen)
-- Yakob Solomon  - [Github](https://github.com/MubarekHussen)
+- Yakob Solomon  - [Github](https://github.com/yakobsolo)
 
